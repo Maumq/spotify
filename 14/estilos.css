@@ -1,0 +1,27 @@
+body {
+    background-color: green;
+    color: black;
+  }
+  
+  .card {
+    background-color: #672727;  /*  */
+    padding: 20px;  /* */
+    margin: 10px;  /* */
+  }
+  
+  
+.bg-morado{
+    background-color: rgb(13, 69, 36);
+}
+.bg-azul{
+    background-color: black;
+}
+p {
+    text-align: center;
+}
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+  }
+
+  
